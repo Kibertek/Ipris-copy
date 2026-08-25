@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "business_cards",
+      "name": "Визитки",
+      "available": true,
+      "description": "Изготовление визиток."
+    },
+    {
+      "id": "leaflets",
+      "name": "Листовки",
+      "available": true,
+      "description": "Изготовление и печать листовок."
+    },
+    {
+      "id": "brochures",
+      "name": "Брошюры",
+      "available": true,
+      "description": "Изготовление брошюр."
+    },
+    {
+      "id": "posters",
+      "name": "Плакаты",
+      "available": true,
+      "description": "Печать плакатов."
+    },
+    {
+      "id": "calendars",
+      "name": "Календари",
+      "available": true,
+      "description": "Изготовление календарей."
+    }
+  ]
+}

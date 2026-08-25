@@ -1,0 +1,96 @@
+{
+  "printing": {
+    "A4": {
+      "bw": [
+        {
+          "from": 1,
+          "to": 10,
+          "price": 5
+        },
+        {
+          "from": 11,
+          "to": 50,
+          "price": 4
+        },
+        {
+          "from": 51,
+          "to": 100,
+          "price": 3
+        },
+        {
+          "from": 101,
+          "to": null,
+          "price": 2
+        }
+      ],
+      "color": [
+        {
+          "from": 1,
+          "to": 10,
+          "price": 15
+        },
+        {
+          "from": 11,
+          "to": 50,
+          "price": 12
+        },
+        {
+          "from": 51,
+          "to": 100,
+          "price": 10
+        },
+        {
+          "from": 101,
+          "to": null,
+          "price": 8
+        }
+      ]
+    },
+    "A3": {
+      "bw": [
+        {
+          "from": 1,
+          "to": 10,
+          "price": 10
+        },
+        {
+          "from": 11,
+          "to": 50,
+          "price": 8
+        },
+        {
+          "from": 51,
+          "to": 100,
+          "price": 7
+        },
+        {
+          "from": 101,
+          "to": null,
+          "price": 5
+        }
+      ],
+      "color": [
+        {
+          "from": 1,
+          "to": 10,
+          "price": 30
+        },
+        {
+          "from": 11,
+          "to": 50,
+          "price": 25
+        },
+        {
+          "from": 51,
+          "to": 100,
+          "price": 20
+        },
+        {
+          "from": 101,
+          "to": null,
+          "price": 18
+        }
+      ]
+    }
+  }
+}
